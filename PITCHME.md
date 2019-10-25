@@ -116,7 +116,7 @@ Git commands:
 
 ### Thanks! 
 
-<br> Today's materials are availabile on my GitHub page! [https://github.com/tpatwood/library-workshop-20191191](https://github.com/tpatwood/library-workshop-20191101) 
+<br> Today's materials are availabile on my GitHub page! [https://github.com/tpatwood/library-workshop-20191101](https://github.com/tpatwood/library-workshop-20191101) 
 <br>
 <br> Email me! [tpatwood@umass.edu](mailto:tpatwood@umass.edu)
 
